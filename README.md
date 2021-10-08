@@ -1,0 +1,1 @@
+Here you can find 3 files with some exemples of functions and essencial javaScript resources. 
